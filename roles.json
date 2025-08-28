@@ -1,0 +1,17 @@
+[
+  {
+    "role": "Admin",
+    "username": "tomsmith",
+    "password": "SuperSecretPassword!"
+  },
+  {
+    "role": "Customer",
+    "username": "tomsmith", 
+    "password": "SuperSecretPassword!" 
+  },
+  {
+    "role": "Guest",
+    "username": "invalidUser",
+    "password": "invalidPass"
+  }
+]
